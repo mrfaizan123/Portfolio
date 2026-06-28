@@ -1,0 +1,89 @@
+[
+  {
+    "id": "customer-segmentation",
+    "title": "Customer Segmentation Analysis",
+    "description": "Developed a machine learning solution using K-Means clustering to analyze customer purchasing behavior and automatically segment customers into meaningful groups. The insights help businesses improve targeted marketing strategies, customer retention, and personalized recommendations.",
+    "category": "ML",
+    "image": "/projects/Customer_Segmentation.png",
+    "tech": ["Python", "Scikit-learn", "Pandas", "Matplotlib"],
+    "demo": "https://customer-segmentaion.onrender.com/",
+    
+    "featured": true
+  },
+  {
+    "id": "Campus_Quest",
+    "title": "Campus Quest",
+    "description": "Built a comprehensive full-stack university management and online examination platform that enables colleges to conduct quizzes, manage students and faculty, evaluate performance, and generate result analytics through an intuitive dashboard.",
+    "category": "Full Stack",
+    "image": "/projects/quest.png",
+    "tech": ["React","Tailwind","MongoDB","Express.js","jwt","bcryptjs","Node.js","Socket IO","redux"],
+    "demo": "https://mohd-faizan.onrender.com",
+
+    "featured": true
+  },
+  {
+    "id": "Furniture_Website",
+    "title": "Furniture Marketplace",
+    "description": "Designed and developed a secure MERN-based e-commerce platform for buying and selling furniture with user authentication, product management, shopping cart, order workflow, and responsive modern UI for a seamless shopping experience.",
+    "category": "Full Stack",
+    "image": "/projects/furniture.jpeg",
+    "tech": ["React", "Node.js", "MongoDB", "Tailwind", "Express.js", "JWT", "bcryptjs"],
+    "demo": "https://lovely-furniture.onrender.com/",
+    "featured": true
+  },
+  {
+    "id": "Nek Kam Foundation",
+    "title": "Nek Kam Foundation",
+    "description": "Created a donation and NGO management platform that allows organizations to manage fundraising campaigns, donor records, and community initiatives while providing a transparent and user-friendly donation experience.",
+    "category": "Full Stack",
+    "image": "/projects/Nek.jpg",
+    "tech": ["React", "Node.js", "MongoDB", "Tailwind", "Express.js", "JWT", "bcryptjs", "react-router-dom", "react-bootstrap"],
+
+    "demo": "https://nekkamfoundation.in/",
+    "featured": false
+  },
+  {
+    "id": "netflix",
+    "title": "Netflix Clone with AI Recommendations",
+    "description": "Developed a Netflix-inspired movie streaming platform using the MERN stack integrated with a machine learning recommendation engine that delivers personalized movie suggestions based on user preferences and viewing history.",
+    "category": "Full Stack",
+    "image": "/projects/Netflix.png",
+    "tech": ["MongoDB", "Express", "React", "Node.js", "Python", "ML", "Firebase"],
+    "demo": "https://netlix-ui.vercel.app/",
+    "featured": true
+  },
+  {
+    "id": "Book Recommendation System",
+    "title": "AI Book Recommendation System",
+    "description": "Built an intelligent book recommendation platform that leverages machine learning algorithms to suggest personalized books based on user interests, reading patterns, and similarity analysis while providing an interactive frontend experience.",
+    "category": "ML",
+    "image": "/projects/BookReco.png",
+    "tech": ["Python", "Scikit-learn", "Pandas", "Matplotlib", "Firebase", "React", "HTML", "CSS", "Tailwind"],
+    "demo": "https://book-recommendation-wa2h.onrender.com/",
+    "featured": true
+  },
+  {
+    "id": "AI Assistant",
+    "title": "AI Virtual Assistant",
+    "description": "Developed a full-stack AI-powered virtual assistant capable of understanding natural language, answering user queries, and integrating with AI/ML services. Designed with a scalable architecture to support future features such as RAG, LLM integration, and intelligent task automation.",
+    "category": "AI",
+    "image": "/projects/AI_Assistant.png",
+    "tech": [ "Python", "Machine Learning", "Firebase"],
+    "github": "https://github.com/mrfaizan123",
+
+    "featured": true
+  }
+  ,
+  {
+    "id": "Crop Disease Detection",
+    "title": "Crop Disease Detection",
+    "description": "Developed a ML-based model for crop disease detection using deep learning and image processing techniques. The model is trained on a large dataset of crop images and can detect diseases in crops with high accuracy.",
+    "category": ["AI","ML"],
+    "image": "/projects/crop.png",
+    "tech": [ "Python", "Machine Learning", "Firebase"],
+    "demo":"https://crop-disease-detection.onrender.com/",
+    "featured": true
+  }
+]
+
+

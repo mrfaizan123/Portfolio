@@ -1,0 +1,30 @@
+[
+  {
+    "keywords": ["who are you", "about you", "name", "introduce"],
+    "answer": "Hi! I'm Mohd Faizan, a Full Stack Developer and Machine Learning enthusiast currently pursuing my MCA at Integral University in Lucknow. I specialize in MERN Stack, Python, and Data Science."
+  },
+  {
+    "keywords": ["skills", "tech stack", "technologies", "what do you know"],
+    "answer": "I have expertise in both Frontend and Backend development. My core skills include React, JavaScript, Node.js, Python, FastAPI, MongoDB, and SQL. I also work with AI/ML technologies like Pandas, Scikit-Learn, and RAG systems."
+  },
+  {
+    "keywords": ["projects", "what have you built", "work", "portfolio"],
+    "answer": "I've built several exciting projects! Some highlights include a Netflix Clone with an ML recommendation engine, a Full Stack donation platform (The Power of One), an AI-powered Email Classification System, and a Gym Management System in C++."
+  },
+  {
+    "keywords": ["education", "university", "college", "degree"],
+    "answer": "I am currently pursuing a Bachelor of Computer Applications (MCA) at Integral University in Lucknow, where I have achieved an outstanding CGPA of 9.5."
+  },
+  {
+    "keywords": ["contact", "hire", "email", "phone", "reach"],
+    "answer": "You can reach me via email at umohdfaizan@gmail.com, or call me at +91 8810743304. I'm always open to new opportunities!"
+  },
+  {
+    "keywords": ["experience", "internship", "job"],
+    "answer": "I completed an Analytics Virtual Internship at Forage (Deloitte), and have undergone comprehensive Data Science training from Oracle, Internshala, and IBM."
+  },
+  {
+    "keywords": ["services", "what do you offer", "freelance"],
+    "answer": "I offer Full Stack Web Development, AI & LLM integration, Data Analysis, and Custom Software Solutions. If you have an idea, let's build it!"
+  }
+]

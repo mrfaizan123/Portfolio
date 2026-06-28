@@ -1,0 +1,36 @@
+[
+  {
+    "id": "oracle-ds",
+    "title": "Data Science Foundations",
+    "issuer": "Oracle",
+    "date": "2025",
+    "image": "/certificates/Oracle.png",
+    "link": "#"
+  },
+  {
+    "id": "internshala-ds",
+    "title": "Data Science Training",
+    "issuer": "Internshala",
+    "date": "2025",
+    "image": "/certificates/internshala_training.png",
+    "link": "#"
+  },
+ 
+  {
+    "id": "ibm-python",
+    "title": "Python for Data Science",
+    "issuer": "IBM",
+    "date": "2025",
+    "image": "/certificates/IBM.png",
+    "link": "#"
+  },
+
+  {
+    "id": "weproz",
+    "title": "Frontend Developer",
+    "issuer": "Weproztech",
+    "date": "2026",
+    "image": "/certificates/wepro.png",
+    "link": "#"
+  }
+]
